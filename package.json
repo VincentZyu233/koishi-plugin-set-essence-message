@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-set-essence-message",
-  "description": "设置精华消息",
-  "version": "0.0.1",
+  "description": "让一般路过普通群员也能设置精华消息",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,16 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "homepage": "https://github.com/windbullet/koishi-plugin-set-essence-message",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windbullet/koishi-plugin-set-essence-message.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.18.8"
   }
